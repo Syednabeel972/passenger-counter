@@ -15,7 +15,9 @@ h2 {
     margin-top: 0;
     margin-bottom: 20px;
 }
-
+p {
+    color: white;
+}
 button {
     border: none;
     padding-top: 10px;
